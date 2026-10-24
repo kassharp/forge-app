@@ -1,0 +1,27 @@
+{
+  "id": "./",
+  "name": "FORGE Fitness Planner",
+  "short_name": "FORGE",
+  "description": "Workout planning, nutrition tracking, and fitness progress.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b0d12",
+  "theme_color": "#0b0d12",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "icons/forge-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/forge-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
